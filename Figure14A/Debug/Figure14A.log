@@ -1,0 +1,22 @@
+﻿Build started 07.05.2016 18:57:12.
+     1>Project "C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Figure14A\Figure14A.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Figure14A.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildView.cpp
+         ChildView.cpp
+     1>c:\users\1\documents\visual studio 2013\projects\figure14a\figure14a\childview.cpp(27): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\1\documents\visual studio 2013\projects\figure14a\figure14a\childview.cpp(73): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Debug\Figure14A.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Debug\Figure14A.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Debug\Figure14A.lib" /MACHINE:X86 Debug\Figure14A.res
+         Debug\2DPoint.obj
+         Debug\ChildView.obj
+         Debug\DlgNewProperties.obj
+         Debug\Figure14A.obj
+         Debug\MainFrm.obj
+         Debug\My2DObject14.obj
+         Debug\stdafx.obj
+         Figure14A.vcxproj -> C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Debug\Figure14A.exe
+     1>Done Building Project "C:\Users\1\documents\visual studio 2013\Projects\Figure14A\Figure14A\Figure14A.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
